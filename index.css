@@ -5,16 +5,18 @@ body{
 
 table {
     background-color: #ff9688;
-    margin: 15px;
+    width: 90%;
+    margin: 75px auto;
     font-family:sans-serif;
     font-size: 20px;
+   
   }
 
 
    th, td {
     border: 1px solid;
-    padding: 8px;
-    text-align: left;
+    padding: 10px;
+    text-align: center;
   }
 
   
